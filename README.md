@@ -17,4 +17,5 @@ C# Windows Form
 . Admin can manage on staffs like create update delete staff!
 . Admin can change his own password on setting form
 . Staff can manage on Customers like create update delete customer
-. Staff control on Transfer, Deposit, Withdraw and check customer balance!
+. Staff control on Transfer, Deposit, Withdraw and check customer balance
+. Staff can access to check customers History!
