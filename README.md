@@ -1,2 +1,2 @@
-# C-Bank-Management-System
+# CSharp-Bank-Management-System
 C# Windows Form
