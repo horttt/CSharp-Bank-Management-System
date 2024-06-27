@@ -2,20 +2,20 @@
 C# Windows Form
 
 # For database SQL Server
-. You need to create databse name BankDb by yourself
-. After created database select new Quary and past the code it will create tables for database name Bankdb
+. You need to create a database named BankDb by yourself.
+. After creating the database, select a new query and paste the SQL code from the Bank.sql file. This will create the necessary tables for the BankDb database.
 
 # Access as Admin
-. To access as Admin you need go to table name AdminTbl and set your own admin name and password
-. After that you can login as Admin to manage and create Staff!
+. To access as Admin, you need to go to the table named AdminTbl and set your own admin name and password.
+. After that, you can log in as Admin to manage and create staff members.
 
 # Role
-. If you signin as Admin select the role as Admin
-. If you signin as Staff select the role as Staff
+. If you sign in as Admin, select the role as Admin.
+. If you sign in as Staff, select the role as Staff.
 
 # Details
-. Admin can manage on staffs like create update delete staff!
-. Admin can change his own password on setting form
-. Staff can manage on Customers like create update delete customer
-. Staff control on Transfer, Deposit, Withdraw and check customer balance
-. Staff can access to check customers History!
+. Admin can manage staff members, including creating, updating, and deleting staff records.
+. Admin can change their own password in the settings form.
+. Staff can manage customers, including creating, updating, and deleting customer records.
+. Staff can handle transfers, deposits, withdrawals, and check customer balances.
+. Staff can also access customer history records.
